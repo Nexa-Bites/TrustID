@@ -22,7 +22,7 @@ To provide a trustworthy, efficient, and privacy-centric digital identity system
 
 [➡️ Presenation: Click here to view the Google Slides](https://docs.google.com/presentation/d/1P1hOViR7TNffz5H2b4t8dL0hz_HxIsuIRW3yM1SCKPs/edit#slide=id.g3446bf115aa_0_15)
 
-[📑 project Summary: View Google Doc](https://docs.google.com/document/d/1fH9gBXEnQuEC7aTgMOzYQs4nQfhRIcNT883S0Sb38Ns/edit?usp=sharing)
+[📑 Project Summary: View Google Doc](https://docs.google.com/document/d/1fH9gBXEnQuEC7aTgMOzYQs4nQfhRIcNT883S0Sb38Ns/edit?usp=sharing)
 
 
 
