@@ -5,7 +5,7 @@ TrustID is a blockchain-powered digital identity verification system that ensure
 ---
 
 ## 📌 Our Mission
-To provide a trustworthy, efficient, and privacy-centric digital identity system for seamless verification across industries like **finance, healthcare, and education**.
+To provide a trustworthy, efficient, and privacy-centric digital identity system for seamless verification across industries like **finance, healthcare, education and more**.
 
 ---
 
