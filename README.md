@@ -8,6 +8,9 @@ TrustID is a blockchain-powered digital identity verification system that ensure
 To provide a trustworthy, efficient, and privacy-centric digital identity system for seamless verification across industries like **finance, healthcare, education and more**.
 
 ---
+## 🏠 TrustID | Signup Now
+[🌐 Visit TrustID App](https://trust-id-snowy.vercel.app/)
+
 
 ## 🔹 Key Features
 - ✅ **Decentralized Identifiers (DIDs)** for secure user authentication.
