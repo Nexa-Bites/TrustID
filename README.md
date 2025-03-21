@@ -1,3 +1,25 @@
+# TrustID: Blockchain-Powered Digital Identity Verification
+
+TrustID is a blockchain-powered digital identity verification system that ensures secure, tamper-proof, and verifiable credentials. Built on **Hyperledger Indy** and **PostgreSQL**, TrustID allows users to manage and share their credentials (e.g., National ID, Passports, Degrees) with organizations in a privacy-preserving, decentralized way.
+
+---
+
+## 📌 Our Mission
+To provide a trustworthy, efficient, and privacy-centric digital identity system for seamless verification across industries like **finance, healthcare, and education**.
+
+---
+
+## 🔹 Key Features
+- ✅ **Decentralized Identifiers (DIDs)** for secure user authentication.
+- ✅ **Verifiable Credentials** stored on blockchain for authenticity.
+- ✅ **Automated Data Extraction** using OCR/AI for easy document verification.
+- ✅ **Revocation Registry** to track and prevent fraudulent credentials.
+- ✅ **Seamless Integration** for organizations to verify credentials in real-time.
+
+---
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
