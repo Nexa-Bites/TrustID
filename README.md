@@ -2,6 +2,8 @@
 
 TrustID is a blockchain-powered digital identity verification system that ensures secure, tamper-proof, and verifiable credentials. TrustID allows users to manage and share their credentials (e.g., National ID, Passports, Degrees) with organizations in a privacy-preserving, decentralized way.
 
+![TrustID Logo](https://github.com/Nexa-Bites/trustid_front_and_backend/blob/main/WhatsApp%20Image%202025-03-20%20at%2013.23.22_3df22ccf.png?raw=true)
+
 ---
 
 ## 📌 Our Mission
