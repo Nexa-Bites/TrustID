@@ -18,6 +18,10 @@ To provide a trustworthy, efficient, and privacy-centric digital identity system
 
 ---
 
+## 📊 Project Presentation
+
+[➡️ Click here to view the Google Slides](https://docs.google.com/presentation/d/1P1hOViR7TNffz5H2b4t8dL0hz_HxIsuIRW3yM1SCKPs/edit#slide=id.g3446bf115aa_0_15)
+
 
 
 # React + TypeScript + Vite
